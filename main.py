@@ -1,7 +1,7 @@
 """
 File: main.py
-Author: Luffy
-Date: 7th June 2024
+Author: Kishor
+Date: 7th June 2023
 Description: K Nearest Neighboor Machine Learning Model To Predict The Weather With 75.7% Accuracy.
 
 """
